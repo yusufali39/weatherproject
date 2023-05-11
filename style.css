@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  #weatherIcon {
+    width: 100px;
+    height: 100px;
+  }
+  
+  #name {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  #weatherDescription {
+    color: #666;
+  }
+  
+  #city {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  #temperature {
+    color: #333;
+    font-weight: bold;
+  }
+  
+  
